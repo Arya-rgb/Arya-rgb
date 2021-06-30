@@ -47,6 +47,7 @@ Hi, I'm [Dicky Arya Pratama!](https://github.com/Arya-rgb), A Mobile Developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 <br/>
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-rgb&layout=compact&theme=vue" alt="Arya-rgb" />
 </a>
@@ -59,7 +60,7 @@ Hi, I'm [Dicky Arya Pratama!](https://github.com/Arya-rgb), A Mobile Developer
 ⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
-
+<br/>
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arya-rgb&show_icons=true&theme=gotham" alt="Arya-rgb" />
