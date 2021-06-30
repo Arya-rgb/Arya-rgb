@@ -61,7 +61,5 @@ Hi, I'm [Dicky Arya Pratama!](https://github.com/Arya-rgb), A Mobile Developer
 <!-- TODO-IST:END -->
 
 <br/>
-📈 My GitHub Stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arya-rgb&show_icons=true&theme=gotham" alt="Arya-rgb" />
 
