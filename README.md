@@ -55,7 +55,6 @@ Hi, I'm [Dicky Arya Pratama!](https://github.com/Arya-rgb), A Mobile Developer
 ⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
-<br/>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Arya-rgb&show_icons=true&theme=gotham" alt="Arya-rgb" />
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-rgb&layout=compact&theme=gotham" alt="Arya-rgb" />
 
