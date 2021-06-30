@@ -51,7 +51,7 @@ Hi, I'm [Dicky Arya Pratama!](https://github.com/Arya-rgb), A Mobile Developer
 <br />
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-rgb&layout=compact&theme=vue" alt="Arya-rgb" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-rgb&layout=compact&theme=vue" alt="Arya-rgb" />
 </a>
 
 
