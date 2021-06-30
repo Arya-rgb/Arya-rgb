@@ -49,11 +49,9 @@ Hi, I'm [Dicky Arya Pratama!](https://github.com/Arya-rgb), A Mobile Developer
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text   
-Kotlin        22 hr 49 mins  █████████████               70.46 % 
-Dart          14 hr 59 mins  ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Java          13 hr 28 mins  ██████░░░░░░░░░░░░░░░░░░░   21.46 % 
-Php           2 hr 24 min    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Other         20 min         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-rgb&layout=compact&theme=vue" alt="Arya-rgb" />
+</a>
 ```
 <!--END_SECTION:waka-->
 
