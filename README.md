@@ -48,7 +48,7 @@ Hi, I'm [Dicky Arya Pratama!](https://github.com/Arya-rgb), A Mobile Developer
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
+```text                                                        
 Kotlin        22 hr 49 mins  █████████████░░░░░░░░░░░░   70.46 % 
 Dart          14 hr 59 mins  ███████░░░░░░░░░░░░░░░░░░   26.49 % 
 Java          13 hr 28 mins  ██████░░░░░░░░░░░░░░░░░░░   21.46 % 
