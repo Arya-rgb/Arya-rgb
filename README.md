@@ -19,7 +19,7 @@
   <img align="left" alt="Dicky's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=AbiFarhan.AbiFarhan)
+![](https://visitor-badge.glitch.me/badge?page_id=Arya-rgb.Arya-rgb)
 
 <br />
 
