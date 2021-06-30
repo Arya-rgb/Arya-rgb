@@ -33,7 +33,7 @@ Hi, I'm [Dicky Arya Pratama!](https://github.com/Arya-rgb), A Mobile Developer
 - 🌱 I’m currently learning Flutter, Android Native, And Game Development; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [dickyarya.personal@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=dickyarya.personal@gmail.com);
-- 📝[Resume](https://github.com/Arya-rgb/resume)
+- 📝[Resume](https://github.com/Arya-rgb/resume/blob/master/myresume.pdf)
 
 **Languages and Tools:**  
 
